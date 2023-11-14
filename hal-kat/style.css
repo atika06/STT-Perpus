@@ -1,0 +1,43 @@
+body{
+    background-color: #F0F2F5;
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-expand-md{
+    background: #2A3F54;
+}
+header{
+   height: 90px;
+}
+.logo{
+    margin: 0 100px;
+    float: left;
+}
+.bi-shield-shaded{
+    color: #F0F2F5;
+    font-family: 'Purple Purse', serif;
+}
+.container{
+    background-color: #FFFFFF;
+}
+
+.mt-4{
+    margin-top: 35px;
+}
+.subjud{
+    font-family: 'Purple Purse', serif, #575757;
+}
+.justify-content-center{
+    width: 1065px;
+    /* height: 779px; */
+}
+.col-md-3{
+    margin-top: 35px;
+    height: 300px;
+}
+img{
+    width: 200px;
+    height: 225px;
+}
+.konten1{
+    margin-top: 35px;
+}

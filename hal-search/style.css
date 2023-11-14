@@ -1,0 +1,33 @@
+body{
+    background-color: #F0F2F5;
+    font-family: 'Poppins', sans-serif;
+}
+header{
+   height: 90px;
+}
+.logo{
+    margin: 0 100px;
+    float: left;
+}
+.bi-shield-shaded{
+    color: #F0F2F5;
+    font-family: 'Purple Purse', serif;
+}
+.container{
+    background-color: #FFFFFF;
+}
+
+.mt-4{
+    margin-top: 35px;
+}
+.col-lg-4, .col-lg-8{
+    margin-top: 35px;
+    height: 300px;
+}
+img{
+    width: 200px;
+    height: 225px;
+}
+.konten1{
+    margin-top: 35px;
+}
