@@ -1,0 +1,90 @@
+body{
+    background-color: #F0F2F5;
+    font-family: 'Poppins', sans-serif;
+}
+header{
+   height: 90px;
+}
+.logo{
+    margin: 0 100px;
+    float: left;
+}
+.bi-shield-shaded{
+    color: #F0F2F5;
+    font-family: 'Purple Purse', serif;
+}
+.container{
+    background-color: #FFFFFF;
+}
+
+.mt-4{
+    margin-top: 35px;
+}
+/* hal-home */
+.col-lg-2{
+    margin-top: 35px;
+    column-gap: 112px;
+    height: 260px;
+}
+.subkat{
+    margin-top: 20px;
+}
+
+img{
+    width: 200px;
+    height: 225px;
+}
+.konten1{
+    margin-top: 35px;
+}
+.konten2{
+    margin-top: 20px;
+}
+.btn-info{
+    width: 150px;
+    background-color: #2A3F54;
+}
+.cont-cate{
+    height: 150px;
+}
+.pagnum{
+    float: right;
+    margin-top: 20px;
+}
+.btn-outline-success{
+    font-family: 'Poppins', sans-serif;
+    background: #2A3F54;
+}
+.btn-info{
+    font-family: 'Poppins', sans-serif;
+}
+.e-perpus{
+    margin-top: 20px;
+}
+.cont-bio{
+    height: 180px;
+}
+/* hal-kat */
+.subjud{
+    font-family: 'Purple Purse', serif, #575757;
+}
+.col-md-3{
+    margin-top: 35px;
+    height: 300px;
+}
+/* hal-search */
+.col-lg-4, .col-lg-8{
+    margin-top: 35px;
+    height: 300px;
+}
+/* hal-dwl */
+.btn-dark{
+    background-color: #2A3F54;
+}
+.btn strong{
+    color:#1ABB9C;
+}
+.col-download{
+    height: 80px;
+}
+
